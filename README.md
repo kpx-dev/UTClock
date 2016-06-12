@@ -16,3 +16,13 @@ https://github.com/KNNCreative/UTClock/blob/master/UTClock-darwin-x64/UTClock.zi
 
     # start app without building
     npm start
+
+## Credits
+
+built with menubar: https://github.com/maxogden/menubar
+
+Icon: https://thenounproject.com/search/?q=time&i=114421
+
+## License
+
+MIT
