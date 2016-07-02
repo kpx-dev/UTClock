@@ -4,7 +4,7 @@ Simple UTC Clock for developer. It runs on your Mac OS X menu bar or Windows Tas
 ![UTClock Screenshot](screenshot.png "UTClock Screenshot")
 
 ## Download
-https://github.com/KNNCreative/UTClock/blob/master/UTClock-darwin-x64/UTClock.zip?raw=true
+https://github.com/KNNCreative/UTClock/releases/download/0.0.1/macOS-UTClock.zip
 
 ## If you want to contribute, please do :)
 
@@ -26,4 +26,4 @@ built with menubar: https://github.com/maxogden/menubar
 
 Icon: https://thenounproject.com/search/?q=time&i=114421
 
-Part of Open Idea Project: https://github.com/kienpham2000/projects
+Part of Kien's side projects: https://github.com/kienpham2000/side-projects
